@@ -33,3 +33,7 @@
 print("`hello world`")
 
 [Libreria Git de referencia.](https://git-scm.com/docs)
+
+![WhatsApp Image 2024-02-01 at 11 37 09 PM](https://github.com/oscar0617/cvds-lab1-OscarL/assets/157759010/6767b25d-3751-4946-a925-e71bedb752ce)
+
+![WhatsApp Image 2024-02-01 at 11 36 42 PM](https://github.com/oscar0617/cvds-lab1-OscarL/assets/157759010/2c16ae92-e4d4-443d-80d5-4cb6258f32df)
